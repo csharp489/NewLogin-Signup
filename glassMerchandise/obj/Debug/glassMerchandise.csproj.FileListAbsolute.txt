@@ -1,0 +1,10 @@
+C:\Users\rishabh\source\repos\glassMerchandise\glassMerchandise\bin\Debug\glassMerchandise.exe.config
+C:\Users\rishabh\source\repos\glassMerchandise\glassMerchandise\bin\Debug\glassMerchandise.exe
+C:\Users\rishabh\source\repos\glassMerchandise\glassMerchandise\bin\Debug\glassMerchandise.pdb
+C:\Users\rishabh\source\repos\glassMerchandise\glassMerchandise\obj\Debug\glassMerchandise.csprojAssemblyReference.cache
+C:\Users\rishabh\source\repos\glassMerchandise\glassMerchandise\obj\Debug\glassMerchandise.Form1.resources
+C:\Users\rishabh\source\repos\glassMerchandise\glassMerchandise\obj\Debug\glassMerchandise.Properties.Resources.resources
+C:\Users\rishabh\source\repos\glassMerchandise\glassMerchandise\obj\Debug\glassMerchandise.csproj.GenerateResource.cache
+C:\Users\rishabh\source\repos\glassMerchandise\glassMerchandise\obj\Debug\glassMerchandise.csproj.CoreCompileInputs.cache
+C:\Users\rishabh\source\repos\glassMerchandise\glassMerchandise\obj\Debug\glassMerchandise.exe
+C:\Users\rishabh\source\repos\glassMerchandise\glassMerchandise\obj\Debug\glassMerchandise.pdb
